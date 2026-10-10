@@ -1,0 +1,14 @@
+[
+    {
+        "Nombre": "queso",
+        "Precio": 100.0,
+        "Stock": 7,
+        "ID": 1
+    },
+    {
+        "Nombre": "papas",
+        "Precio": 200.0,
+        "Stock": 2,
+        "ID": 2
+    }
+]
