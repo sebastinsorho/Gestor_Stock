@@ -179,3 +179,5 @@ while True:
         break
     else:
         print("Esa opcion es invalida")
+
+print("estoy escribiendo código desde el celular")
