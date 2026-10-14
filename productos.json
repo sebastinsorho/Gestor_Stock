@@ -6,9 +6,15 @@
         "ID": 1
     },
     {
-        "Nombre": "papas",
+        "ID": 3,
+        "Nombre": "cerdo",
+        "Precio": 1200.0,
+        "Stock": 5
+    },
+    {
+        "ID": 4,
+        "Nombre": "mantecol",
         "Precio": 200.0,
-        "Stock": 2,
-        "ID": 2
+        "Stock": 5
     }
 ]
